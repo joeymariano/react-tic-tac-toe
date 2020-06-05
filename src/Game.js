@@ -1,5 +1,4 @@
 import React from 'react';
-import Component from 'react';
 import Board from './components/board.js'
 import './Game.css';
 
